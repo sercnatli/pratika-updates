@@ -2,7 +2,7 @@
   "addons": {
     "erecete@hekvia.com": {
       "updates": [
-        { "version": "0.18", "update_link": "https://raw.githubusercontent.com/sercnatli/pratika-updates/main/pratika-erecete-imzali.xpi" }
+        { "version": "0.19", "update_link": "https://raw.githubusercontent.com/sercnatli/pratika-updates/main/pratika-erecete-imzali.xpi" }
       ]
     }
   }

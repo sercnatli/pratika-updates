@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
-  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.2.7/PratikaSetup.exe",
-  "notes": "Guncelleme denetimi periyodik + ilk kurulum sihirbazi"
+  "version": "1.2.8",
+  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.2.8/PratikaSetup.exe",
+  "notes": "Kurulum/guncelleme sorunsuz: uygulamayi kendi kapatip geri aciyor"
 }

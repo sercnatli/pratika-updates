@@ -1,5 +1,5 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.2.9/PratikaSetup.exe",
-  "notes": "Kurulum sonrasi otomatik acilir; sessiz guncelleme kesintisiz"
+  "version": "1.3.0",
+  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.3.0/PratikaSetup.exe",
+  "notes": "Barkod izleyici her AHBS'ye uyumlu hale getirildi + teshis araci"
 }

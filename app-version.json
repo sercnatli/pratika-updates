@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.4.2/PratikaSetup.exe",
-  "notes": "Veri paneli tek-basis akis + otomatik birim"
+  "version": "1.4.3",
+  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.4.3/PratikaSetup.exe",
+  "notes": "Veri paneli: giris yapinca otomatik ceker"
 }

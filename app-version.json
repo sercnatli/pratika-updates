@@ -1,1 +1,5 @@
-{"version":"1.5.7","url":"https://github.com/sercnatli/pratika-updates/releases/download/v1.5.7/PratikaSetup.exe","notes":"gorevlendirme birimi isaretlendi"}
+{
+  "version": "1.5.8",
+  "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.5.8/PratikaSetup.exe",
+  "notes": "Reçete T.C. göster/gizle tiki + ASM Türkçe kodlama + arka plan pencere"
+}

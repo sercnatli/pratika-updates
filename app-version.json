@@ -1,5 +1,6 @@
 {
   "version": "1.6.13",
   "url": "https://github.com/sercnatli/pratika-updates/releases/download/v1.6.13/PratikaSetup.exe",
-  "notes": "Pratika 1.6.13"
+  "notes": "Pratika 1.6.13",
+  "cache_bust": 1
 }
